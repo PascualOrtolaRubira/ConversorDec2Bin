@@ -1,10 +1,19 @@
 # TITULO
 ## SUBTITULO
 __negrita__
+
 _cursiva_
+
 ~~subrayado~~
 1. Lista
 2. De
 3. Cosas
-!(https://pbs.twimg.com/profile_images/1819637660018716672/-RByX0O9_400x400.jpg)
-:)
+
+![imagen](https://github.com/user-attachments/assets/3839ad89-8533-4c82-8478-b46c7b51c490)
+
+:crab:
+
+> [!ALERTA]
+> Esto es una alerta.
+
+---
