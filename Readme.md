@@ -13,7 +13,7 @@ _cursiva_
 
 :crab:
 
-> [!ALERTA]
+> [!WARNING]
 > Esto es una alerta.
 
 ---
